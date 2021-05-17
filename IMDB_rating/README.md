@@ -35,7 +35,7 @@ Before fiting our training data into model, we have to compile our model from be
   
 ### Plotted the accuracy on Tensorboard
 Its awesome to plot accuracy and loss on Tensorboard simply using the logs which get created during model training.
-                                                        [](https://drive.google.com/file/d/12wNesc9nRPAQMvv4emZQhQkNzMB3xt4x/view?usp=sharing)   
+                                                        [img](https://drive.google.com/file/d/12wNesc9nRPAQMvv4emZQhQkNzMB3xt4x/view?usp=sharing)   
 
 ### You should also try it out. 
 
