@@ -6,7 +6,7 @@ You can take help of IMDb.ipynb file where I coded it,available in this folder.<
 
 This model is already trained on Tensorflow's website. Accuracy of the model on the website is 0.8351 with validation accuracy 0.7864.<br>
 
-I achived the accuracy of 0.96 with 0.82 validation accuracy but it was overfitting so I used Dropout with Adamax optimizer and added additional Hidden layer again I achieved accuracy of 0.9304 with 0.8292 validation accuracy.<br>
+I achived the accuracy of 0.96 with 0.82 validation accuracy but it was overfitting so I used Dropout with Adamax optimizer and added additional Hidden layer again I achieved accuracy of **0.9304** with **0.8292** validation accuracy.<br>
 
 
 ### Parameters:
