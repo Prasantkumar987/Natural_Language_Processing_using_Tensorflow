@@ -6,18 +6,18 @@ You can take help of IMDb.ipynb file where I coded it,available in this folder.<
 
 This model is already trained on Tensorflow's website. Accuracy of the model on the website is 0.8351 with validation accuracy 0.7864.<br>
 
-I achived the accuracy of 0.96 with 0.82 validation accuracy but it was overfitting so I used Dropout with Adamax optimizer and added additional Hidden layer again I achieved accuracy of **0.9304** with **0.8292** validation accuracy.<br>
+I achived the accuracy of 0.88 with 0.83 validation accuracy but it was overfitting so I used Dropout with Adamax optimizer and added additional Hidden layer again I achieved accuracy of **0.8835** with **0.8308** validation accuracy.<br>
 
 
 ### Parameters:
 Number of neurons = 32<br>
-Number of hidden layers = 16<br>
-Droputout = 0.2<br>
+Number of hidden layers = 2<br>
+Droputout = 0.5 and 0.2<br>
 activation function = relu<br>
 optimizer = Adamax<br>
 loss = binary_crossentropy<br>
 metrics = accuracy<br>
-epochs = 35  <br>
+epochs = 20  <br>
 
 
 ### Plotted the accuracy on Tensorboard
