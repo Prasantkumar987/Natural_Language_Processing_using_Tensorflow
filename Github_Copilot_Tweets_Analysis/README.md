@@ -10,5 +10,5 @@ In this project, I extracted tweets from Twitter using API and worked on it. Dat
 5. I trained, embedded vectors using **Kmeans** algorithm 
 6. After that, I printed Silhouette Score and Graph to see the clusters in different color
 7. At last, made a list of indexes of tweets falling in both clusters seperately. To check what is sentiment of people lying in different clusters. 
-![download](https://user-images.githubusercontent.com/54981696/129322671-4b04a5d1-4632-4832-b9b0-253922457a41.png)
+![graph](https://user-images.githubusercontent.com/54981696/129323499-6e8538e8-dbeb-431b-98c5-76092f00289f.png)
 
