@@ -1,7 +1,8 @@
 ## Github Copilot Tweets Analysis
 In this project, I extracted tweets from Twitter using API and worked on it. Data is provided into [data](https://github.com/Prasantkumar987/Natural_Language_Processing_using_Tensorflow/tree/main/Github_Copilot_Tweets_Analysis/data) folder of this repository. 
 
-![Copilot-sentiment](https://user-images.githubusercontent.com/54981696/129315573-6110e003-4131-4470-af4e-331101f5809d.png)
+![Untitled-1](https://user-images.githubusercontent.com/54981696/129345195-99bab680-9f96-4438-b67b-2f1b9b729d2b.png)
+
 
 1. I preprocessed the tweets by applied Natural language techniques using **nltk**,**re**,**collection** libraries.
 2. After preprocessing, ploted a **word Cloud** to get a glimpse of my preprocessed data.
